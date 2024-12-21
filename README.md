@@ -22,4 +22,8 @@ communication and accurate object identification.
 written communication for better interaction.
 
 project OUTPUT
+![Alt image](![image base](https://github.com/user-attachments/assets/c3b31d72-32e5-4d1c-a31b-4ecc175f3f05)
+
+
+
 
