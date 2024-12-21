@@ -22,7 +22,7 @@ communication and accurate object identification.
 written communication for better interaction.
 
 project OUTPUT
-![Alt image]![project frontend](https://github.com/user-attachments/assets/e8d8ec7d-f811-41b0-850f-dc32444eb66d)
+[project frontend](https://github.com/user-attachments/assets/e8d8ec7d-f811-41b0-850f-dc32444eb66d)
 
 The project home page showcases an AI chatbot capable of processing voice, image, and text inputs. It highlights key features such as natural language understanding, voice recognition, and image analysis, providing an interactive and engaging user experience. 
 
