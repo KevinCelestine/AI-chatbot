@@ -22,7 +22,20 @@ communication and accurate object identification.
 written communication for better interaction.
 
 project OUTPUT
-![Alt image](![image base](https://github.com/user-attachments/assets/c3b31d72-32e5-4d1c-a31b-4ecc175f3f05)
+![Alt image]![project frontend](https://github.com/user-attachments/assets/e8d8ec7d-f811-41b0-850f-dc32444eb66d)
+
+The project home page showcases an AI chatbot capable of processing voice, image, and text inputs. It highlights key features such as natural language understanding, voice recognition, and image analysis, providing an interactive and engaging user experience. 
+
+![Alt image]![Objects](https://github.com/user-attachments/assets/6d7623aa-718a-44be-812b-5ea5ff74e7ed)
+
+
+AI chatbot user start chat with the system and the questions were ask answer by the user and also you can access the voice chat by clicking on voice chat with machine gives exactly what you want.
+
+
+![Alt ima![image base](https://github.com/user-attachments/assets/6e29a609-9c94-493a-bcdf-c93e8872a33f)
+
+The image search feature in the GUI allows users to shows object on camera for the AI chatbot to analyze. It enables efficient image recognition and retrieval by processing visual content to provide relevant or responses
+
 
 
 
