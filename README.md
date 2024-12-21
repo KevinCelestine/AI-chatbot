@@ -20,3 +20,6 @@ communication and accurate object identification.
 
  User Experience Enhancement: Focused on improving the user experience by supporting both verbal and 
 written communication for better interaction.
+
+project OUTPUT
+
