@@ -4,7 +4,7 @@ Abstraction
 	For image-based chat interactions, our chatbot integrates computer vision technologies to interpret visual input and extract relevant information. By analyzing images through convolutional neural networks (CNNs) and feature extraction algorithms, the chatbot identifies objects, scenes, and contextual cues, enabling it to generate appropriate responses or perform tasks based on visual stimuli.
 	In voice-based chat interactions, our chatbot employs automatic speech recognition (ASR) and natural language understanding (NLU) techniques to transcribe spoken words into text and comprehend the user's intent and context. By utilizing recurrent neural networks (RNNs) and attention mechanisms, the chatbot processes voice inputs in real-time, delivering accurate and contextually relevant responses through synthesized speech.
 
-Achievements
+# Achievements
  
 AI Chatbot Development: Developed the AI chatbot to support text-based, voice-based, and object 
 identification interactions using NLP and Machine Learning.
@@ -21,7 +21,7 @@ communication and accurate object identification.
  User Experience Enhancement: Focused on improving the user experience by supporting both verbal and 
 written communication for better interaction.
 
-project OUTPUT
+# Project OUTPUT
 ![Alt image](https://github.com/user-attachments/assets/e8d8ec7d-f811-41b0-850f-dc32444eb66d)
 
 The project home page showcases an AI chatbot capable of processing voice, image, and text inputs. It highlights key features such as natural language understanding, voice recognition, and image analysis, providing an interactive and engaging user experience. 
@@ -36,6 +36,21 @@ AI chatbot user start chat with the system and the questions were ask answer by 
 
 The image search feature in the GUI allows users to shows object on camera for the AI chatbot to analyze. It enables efficient image recognition and retrieval by processing visual content to provide relevant or responses
 
+# intern Certificate 
+
+SmartWeb technologies, Website Designing Company in Coimbatore, skills in
+website designing, web application development, ensuring that you have the best
+of the technology breed to enhance your core competencies. At SmartWeb
+technologies, we take pride in ensuring we understand your business and the
+challenges it faces both now and into the future. Our team of highly skilled
+consultants and website designing developers bring a wealth of application and
+business knowledge to SmartWeb technologies’s solutions.
+
+![Alt image]![intern certificate](https://github.com/user-attachments/assets/1fce2bd4-7748-4740-904b-61328186f8c0)
+
+# Publishing certificate
+
+![Alt image]![journal](https://github.com/user-attachments/assets/a705229b-a45c-4307-9ca1-6a1e25a43e6e)
 
 
 
